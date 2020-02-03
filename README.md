@@ -1,5 +1,5 @@
 # csv
-This app allows the user to submit a CSV file ( example provided in the repo "csv-testfile.csv" ) which will be dynamically graphed into two chart forms. 
+This app allows the user to submit a CSV file ( example csv file to be used provided in the repo "csv-testfile.csv" ) which will be dynamically graphed into two chart forms. 
 
 Each named element of each graph may be toggled on/off. 
 
