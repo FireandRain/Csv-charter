@@ -3,6 +3,10 @@ This app allows the user to submit a given CSV file ( csv file to be used provid
 
 Each named element of each graph may be toggled on/off. 
 
+Values to be plotted and Variables may be edited from the CVS directly or from the cvs file within an IDE.
+If edited from within the IDE, the format must be adhered to. 
+
+
 ## Project setup
 ```
 yarn install
